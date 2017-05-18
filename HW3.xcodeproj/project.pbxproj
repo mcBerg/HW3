@@ -14,6 +14,7 @@
 		65D0419E1ECBB5F20064451D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65D0419C1ECBB5F20064451D /* LaunchScreen.storyboard */; };
 		65D041A91ECBB5F20064451D /* HW3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D041A81ECBB5F20064451D /* HW3Tests.swift */; };
 		65D041B41ECBB5F20064451D /* HW3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D041B31ECBB5F20064451D /* HW3UITests.swift */; };
+		65D041C41ECBCACC0064451D /* DecimalMinusTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D041C31ECBCACC0064451D /* DecimalMinusTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		65D041AF1ECBB5F20064451D /* HW3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HW3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65D041B31ECBB5F20064451D /* HW3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW3UITests.swift; sourceTree = "<group>"; };
 		65D041B51ECBB5F20064451D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65D041C31ECBCACC0064451D /* DecimalMinusTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DecimalMinusTextField.swift; path = ../../../DecimalMinusTextField/DecimalMinusTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				65D041971ECBB5F20064451D /* Main.storyboard */,
 				65D0419A1ECBB5F20064451D /* Assets.xcassets */,
 				65D0419C1ECBB5F20064451D /* LaunchScreen.storyboard */,
+				65D041C31ECBCACC0064451D /* DecimalMinusTextField.swift */,
 				65D0419F1ECBB5F20064451D /* Info.plist */,
 			);
 			path = HW3;
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65D041C41ECBCACC0064451D /* DecimalMinusTextField.swift in Sources */,
 				65D041961ECBB5F10064451D /* ViewController.swift in Sources */,
 				65D041941ECBB5F10064451D /* AppDelegate.swift in Sources */,
 			);
