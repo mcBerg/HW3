@@ -1,14 +1,14 @@
 //
-//  HW3UITests.swift
-//  HW3UITests
+//  GeoCalculatorUITests.swift
+//  GeoCalculatorUITests
 //
-//  Created by user128148 on 5/16/17.
-//  Copyright © 2017 gvsu. All rights reserved.
+//  Created by Jonathan Engelsma on 1/23/17.
+//  Copyright © 2017 Jonathan Engelsma. All rights reserved.
 //
 
 import XCTest
 
-class HW3UITests: XCTestCase {
+class GeoCalculatorUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

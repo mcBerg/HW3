@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  HW3
+//  GeoCalculator
 //
-//  Created by user128148 on 5/16/17.
-//  Copyright © 2017 gvsu. All rights reserved.
+//  Created by Jonathan Engelsma on 1/23/17.
+//  Copyright © 2017 Jonathan Engelsma. All rights reserved.
 //
 
 import UIKit

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>HW3.xcscheme</key>
+		<key>GeoCalculator.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>65D0418F1ECBB5F10064451D</key>
+		<key>9EDE87DF1E36AC2C00C2F900</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>65D041A31ECBB5F20064451D</key>
+		<key>9EDE87F31E36AC2C00C2F900</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>65D041AE1ECBB5F20064451D</key>
+		<key>9EDE87FE1E36AC2D00C2F900</key>
 		<dict>
 			<key>primary</key>
 			<true/>
